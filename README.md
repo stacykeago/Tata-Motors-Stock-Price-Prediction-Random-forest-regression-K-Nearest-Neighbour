@@ -13,4 +13,4 @@ There has been an increase of more than 10 per cent in the stock price of Tata M
 
 
 4. Experimental design taken
- Data [Tata Motors Yahoo Data](https://gemini.google.com/app/45d4201e288e3fe2?cros_source=c&cros_standard_activation=true#:~:text=Tata%20Motors%20Commercial%20Vehicles%20(TMCV.NS)%20on%20Yahoo%20Finance)
+ Data [Tata Motors Yahoo Data](https://finance.yahoo.com/quote/TMCV.NS/history/)
