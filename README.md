@@ -1,25 +1,16 @@
 # Tata-Motors-Stock-Price-Prediction
 
-Loading the data
-Preprocessing the data
-Explore features or charecteristics for stock price prediction
-Develop prediction models
-Evaluate and refine prediction models
-
-
 1. Define the question
-There has been an increase of more than 10 per cent in the stock price of Tata Motors. This has resulted in more attention to Tata Group stocks from all over India. But again today, we are witnessing a fall in the prices of Tata Motors’ shares, which can be a negative signal for investors.  we want to learn how to analyze and predict the Tata Motors stock price
+There has been an increase of more than 10 per cent in the stock price of Tata Motors. This has resulted in more attention to Tata Group stocks from all over India. But again today, we are witnessing a fall in the prices of Tata Motors’ shares, which can be a negative signal for investors.  we want to predict the Tata Motors stock price
 
-2. Metric for success
-Making correct predictions on Tata Motors stock price with the model with the lowest mean squared error or the model with highest accuracy.
 
-3. Experimental design taken
-Import libraries
-Load  dataset
-clean the data 
-Exploratory data analysis techniques
+3. Metric for success
+- Making correct predictions on Tata Motors stock price with the model with the lowest mean squared error or the model with highest accuracy.
+- Directional accuracy DA (used in time series regression to measure whether the predicted price matches the actual price change).
+- Mean absolute percentage error (MAPE) (error  relative to daily predictions.)
+- Root Mean Squared Error (RMSE)
+- 
 
-4. Appropriateness of available data to answer the given question. To get the data:
-        *   Visit Yahoo Finance
-        *   Search for Tata Motors or TTM (it’s the stock symbol of Tata Motors)
-        *   Then click on Historical data and click on download.        
+
+4. Experimental design taken
+ Data [Tata Motors Yahoo Data](https://gemini.google.com/app/45d4201e288e3fe2?cros_source=c&cros_standard_activation=true#:~:text=Tata%20Motors%20Commercial%20Vehicles%20(TMCV.NS)%20on%20Yahoo%20Finance)
